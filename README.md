@@ -42,7 +42,7 @@ Pré-requisitos: Tenha o [.NET SDK](https://dotnet.microsoft.com/download) insta
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/SEU_USUARIO/LojaConsole.git
+$ git clone https://github.com/GabrielCezario1/LojaConsole.git
 
 # Acesse a pasta do projeto
 $ cd LojaConsole
@@ -60,4 +60,4 @@ Este projeto faz parte de uma trilha de aprendizado. As próximas evoluções in
 
 [ ] API: Transformar este console em uma Web API RESTful.
 
-Desenvolvido por [SEU NOME AQUI] 🚀
+Desenvolvido por Gabriel Vieira de Souza 🚀
